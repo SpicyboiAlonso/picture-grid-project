@@ -1,3 +1,6 @@
+@media(max-width: 400px;){
+
+}
 ul{
     list-style-type: none;
 }
@@ -24,9 +27,7 @@ body{
     "img-12 img-13 img-16 img-17 img-18"
     "img-19 img-20 img-20 . ."
 }
-footer{
-    grid-area: footer;
-}
+
 .logo{
     grid-area: logo;
 }
