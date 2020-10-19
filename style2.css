@@ -1,4 +1,4 @@
-@media( max-width: 400px ;){
+@media( min-width: 400px){
 body{
     border: solid grey;
     width: 80%;
@@ -31,6 +31,7 @@ body{
     "img-8 img-13 img-14 img-14 img-15"
     "img-12 img-13 img-16 img-17 img-18"
     "img-19 img-20 img-20 . ."
+    width; calc:(100%-20px);
 }
 
 .logo{
